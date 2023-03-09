@@ -5,6 +5,6 @@ In this assignment I created simple distributed system. It is simple notebooks p
 There is video of my program: https://drive.google.com/file/d/1Oa8VgjDaZcPr7lmY0b1E1ZjIkcVwmI5g/view?usp=sharing
 
 
-## Hoe to RUN
+## How to RUN
 
 Downolad this project and open folder in editor. Open two terminal and write other one "python server.py" and other "python client.py"
